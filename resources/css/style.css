@@ -1,3 +1,37 @@
 /*
   Custom styles for Trackster App
 */
+
+html {
+  font-size: 16px;
+}
+
+h1 {
+  font-family: "Righteous";
+  font-size: 2.5rem;
+  color: rgb(255, 0, 171);
+}
+
+
+.header {
+  background-color: rgb(35, 2, 63);
+  
+}
+
+#search-input {
+  width: 12rem;
+  color: rgb(191,191,191);
+}
+
+#search-button {
+  color: rgb(255, 102, 204);
+}
+
+
+.attributes {
+  background-color: rgb(104, 0, 255);
+}
+
+.attribute {
+  color: rgb(255, 255, 255);
+}
